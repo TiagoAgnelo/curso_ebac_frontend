@@ -1,0 +1,5 @@
+.product-button {
+  @include button-style($secondary-color, $secondary-hover);
+  display: block;
+  margin-top: 8px;
+}
